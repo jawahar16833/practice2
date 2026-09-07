@@ -16,3 +16,5 @@ aws lamda
 
 AZ400
 certified devops engineer
+
+this is the valued course
